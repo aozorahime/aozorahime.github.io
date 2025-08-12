@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently a doctoral student at Kumamoto University. My current research interests are graph representation learning, language models and IoT. Previously, I worked on data mining and natural language processing. My biggest dream I wanna be a researcher with a mission to contribute knowledge to society (common motive, I guess 🙃). Meanwhile, I have been dreaming since I was a kid. I love studying and can't stop my curious thinking. I also have a loT of hobbies, such as outdoor activities and art. Weird combination of hobbies, but I enjoy it 🥸
+Currently a doctoral student at Kumamoto University. My current research interests are graph representation learning, language models and IoT. Previously, I worked on data mining and natural language processing. My biggest dream I wanna be a researcher with a mission to contribute knowledge to society (common motive, I guess 🙃). Meanwhile, I have been dreaming since I was a kid. I love studying and can't stop my curious thinking. I also have a lot of hobbies, such as outdoor activities and art. Weird combination of hobbies, but I enjoy it 🥸
+
+I dedicate this personal website to share my ideas, research, books or opinions ranging from my expertise to life 💫
 
 
 
